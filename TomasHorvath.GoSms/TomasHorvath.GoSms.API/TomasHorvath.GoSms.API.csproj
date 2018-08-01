@@ -62,11 +62,9 @@
     <Compile Include="Model\Organization\Organization.cs" />
     <Compile Include="Model\DetailSmsResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SmsResponse.cs" />
+    <Compile Include="Model\SmsResponse.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Domain\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
