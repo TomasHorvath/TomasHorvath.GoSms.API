@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomasHorvath.GoSms.API", "TomasHorvath.GoSms.API\TomasHorvath.GoSms.API.csproj", "{2DB9D56D-16B1-4361-9B94-8B3421522F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomasHorvath.GoSms.Console", "TomasHorvath.GoSms.Console\TomasHorvath.GoSms.Console.csproj", "{FFF4694D-79C5-46FC-952B-58DAAC530975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB9D56D-16B1-4361-9B94-8B3421522F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB9D56D-16B1-4361-9B94-8B3421522F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB9D56D-16B1-4361-9B94-8B3421522F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB9D56D-16B1-4361-9B94-8B3421522F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF4694D-79C5-46FC-952B-58DAAC530975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF4694D-79C5-46FC-952B-58DAAC530975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF4694D-79C5-46FC-952B-58DAAC530975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF4694D-79C5-46FC-952B-58DAAC530975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83463CD4-4EA7-4545-B576-E9B7812185E5}
+	EndGlobalSection
+EndGlobal
